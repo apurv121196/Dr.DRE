@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EyeSpy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Eye Spy</string>
+    <string name="slide_1_desc">The easy way to detect Diabatic Retinopathy disease!</string>
+
+    <string name="slide_2_title">Near By Hospitals</string>
+    <string name="slide_2_desc">Search near by eye hospitals for your cure!</string>
+
+    <string name="slide_3_title">Tips</string>
+    <string name="slide_3_desc">Get regular updated tips related to eye diseases!</string>
+
+    <!--<string name="slide_4_title">World Travel</string>-->
+    <!--<string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>-->
+
+    <!--<string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>-->
+    <!--<string name="play_again">Play Again</string>-->
+</resources>
